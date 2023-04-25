@@ -20,7 +20,7 @@ A simple llama-lora end to end example to show its potential to train a Chinese 
 |上联| Base LLaMA | LLaMa_LoRA_A100_9mins |
 | ----------- | ----------- | ----------- |
 |春风得意花铺路| 沉浸落泥\n上联 | 月光听声风吹梦 |
-|美丽中国魅力北京| 美丽中国魅力北京\n上联： | 历史浓浅中华梦境 |
+|美丽中国魅力北京| 美丽中国魅力北京 | 历史浓浅中华梦境 |
 |鱼书千里梦| 鱼肉烧肉\n | 鸟声万里声 |
 |日落晚霞临古寺| 晚霞临古寺\n上 | 月映晨雨满梦境 |
 

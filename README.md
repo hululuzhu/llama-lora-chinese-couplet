@@ -17,11 +17,11 @@ A simple llama-lora end to end example to show its potential to train a Chinese 
 - ideally a well trained model will know end of sentence (eos) itself
 - prompt: `对联：{上联}\n下联：`
 
-|上联| Base LLaMA | LLaMa_LoRA_A100_9mins |
-| ----------- | ----------- | ----------- |
-|春风得意花铺路| 沉浸落泥\n上联 | 月光听声风吹梦 |
-|美丽中国魅力北京| 美丽中国魅力北京 | 历史浓浅中华梦境 |
-|鱼书千里梦| 鱼肉烧肉\n | 鸟声万里声 |
-|日落晚霞临古寺| 晚霞临古寺\n上 | 月映晨雨满梦境 |
+|上联| Base LLaMA | LLaMa_LoRA_A100_9mins | LLaMa_LoRA_Tesla_T4_35mins |
+| ----------- | ----------- | ----------- | ----------- |
+|春风得意花铺路| 沉浸落泥\n上联 | 月光听声风吹梦 | 风雨吹梦浮浮� |
+|美丽中国魅力北京| 美丽中国魅力北京\n上联： | 历史浓浅中华梦境 | 梦幻中国梦想宏碁|
+|鱼书千里梦| 鱼肉烧肉\n | 鸟声万里声 | 鸟声万里声|
+|日落晚霞临古寺| 晚霞临古寺\n上 | 月映晨雨满梦境 | 月映晨霜满梦境 |
 
 - In case you are into Chinese couplets, I have a [better T5 version](https://huggingface.co/hululuzhu/chinese-couplet-t5-mengzi-finetune)

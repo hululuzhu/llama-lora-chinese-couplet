@@ -25,3 +25,6 @@ A simple llama-lora end to end example to show its potential to train a Chinese 
 |日落晚霞临古寺| 晚霞临古寺\n上 | 月映晨雨满梦境 | 月映晨霜满梦境 |
 
 - In case you are into Chinese couplets, I have a [better T5 version](https://huggingface.co/hululuzhu/chinese-couplet-t5-mengzi-finetune)
+
+## Some additional thoughts on high-quality AI
+- See [the notes](/other-thoughts-chatai.pdf)

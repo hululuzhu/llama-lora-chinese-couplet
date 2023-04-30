@@ -1,15 +1,15 @@
 # llama-lora-chinese-couplet
 A simple llama-lora end to end example to show its potential to train a Chinese Couplet AI
-- int8 LLaMa + LoRA = Finetune in a consumer GPU <= 16G vram!
+- int8 LLaMa + LoRA = Finetune in a consumer GPU <= 10G vram!
 
-## Slides (TBD), topics included but not limited to
+## [Slides, last update 04/29/2023](./llama-lora-v1.0.pdf)
 - LLM, Pretrain, Finetune
-- [Quantization intro](https://huggingface.co/blog/hf-bitsandbytes-integration), [LLM.int8](https://arxiv.org/abs/2208.07339)
 - [LoRA](https://arxiv.org/abs/2106.09685): A popular Parameter Efficient Finetune approach by Microsoft
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/): A gift from Facebook to the research community
 - [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html): A $600 approach to “distill 80%” of ChatGPT by Stanford
 - [Alpaca-LoRA](https://github.com/tloen/alpaca-lora): An even cheaper approach from a Stanford student？
-
+- Omitted due to time
+  - [Quantization intro](https://huggingface.co/blog/hf-bitsandbytes-integration), [LLM.int8](https://arxiv.org/abs/2208.07339)
 
 ## Zero-shot Examples
 - after 3 epochs of 5k pairs, cap max tokens, greedy

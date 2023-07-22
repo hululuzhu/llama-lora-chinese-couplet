@@ -6,6 +6,7 @@ A simple llama-lora end to end example to show its potential to train a Chinese 
 - LLM, Pretrain, Finetune
 - [LoRA](https://arxiv.org/abs/2106.09685): A popular Parameter Efficient Finetune approach by Microsoft
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/): A gift from Facebook to the research community
+- [LLaMA-2](https://ai.meta.com/llama/): A newer and better gift from Facebook
 - [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html): A $600 approach to “distill 80%” of ChatGPT by Stanford
 - [Alpaca-LoRA](https://github.com/tloen/alpaca-lora): An even cheaper approach from a Stanford student？
 - Omitted due to time
